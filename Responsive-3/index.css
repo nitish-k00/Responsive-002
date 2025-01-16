@@ -1,0 +1,22 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  /* border: 2px solid salmon; */
+}
+.margin {
+  margin-left: 15%;
+  overflow-x: hidden;
+}
+/* .mar {
+  width: 98%;
+  margin: 0 auto;
+} */
+.crl {
+  width: 200px;
+  height: 200px;
+}
+.im {
+  width: 454px;
+  height: 470px;
+}
