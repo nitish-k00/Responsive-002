@@ -21,6 +21,6 @@ A responsive web design project where I took a challenging design from a Nicepag
 
 2. Navigate to the project directory:
    ```bash
-   cd Responsive-2 
+   cd Responsive-3 
 
 3. Open the index.html file in your browser to view the project.
